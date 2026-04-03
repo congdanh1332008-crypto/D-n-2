@@ -10,7 +10,7 @@
 		}
 
 		.banner {
-			background: url("cong_truong.jpg") no-repeat center;
+			background: url("https://share.google/EKsUFwXQduRoQCANF") no-repeat center;
 			background-size: cover;
 			padding:120px 0;
 			text-align: center;
